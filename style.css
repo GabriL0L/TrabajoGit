@@ -1,0 +1,30 @@
+.header-hosting
+{
+    background-image: url('http://lorempixel.com/1500/1500/nature/2/');
+    height: 100vh;
+    overflow: auto;
+    justify-content: center;
+    align-items: center;
+    color: #f7f6f1;
+    display: flex;
+}
+
+.glyphicon.glyphicon-cloud {
+    font-size: 150px;
+}
+
+.glyphicon.glyphicon-fire {
+    font-size: 50px;
+}
+
+.glyphicon.glyphicon-file {
+    font-size: 50px;
+}
+
+.glyphicon.glyphicon-star-empty {
+    font-size: 50px;
+}
+
+.glyphicon.glyphicon-camera {
+    font-size: 50px;
+}
