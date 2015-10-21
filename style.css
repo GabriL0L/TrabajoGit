@@ -10,5 +10,21 @@
 }
 
 .glyphicon.glyphicon-cloud {
-    font-size: 75px;
+    font-size: 150px;
+}
+
+.glyphicon.glyphicon-fire {
+    font-size: 50px;
+}
+
+.glyphicon.glyphicon-file {
+    font-size: 50px;
+}
+
+.glyphicon.glyphicon-star-empty {
+    font-size: 50px;
+}
+
+.glyphicon.glyphicon-camera {
+    font-size: 50px;
 }
