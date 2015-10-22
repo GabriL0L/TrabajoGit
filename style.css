@@ -24,3 +24,11 @@ body {
     color: #6cb4fb;
     padding: 20px;
 }
+.equipo{
+    background-color: #40aef7;
+    color: #ffffff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    text-align: center
+}
