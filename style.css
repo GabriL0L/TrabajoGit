@@ -1,5 +1,4 @@
-.header-hosting
-{
+.header-hosting {
     background-image: url('http://lorempixel.com/1500/1500/nature/2/');
     height: 100vh;
     overflow: auto;
@@ -27,4 +26,46 @@
 
 .glyphicon.glyphicon-camera {
     font-size: 50px;
+}
+
+body {
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.4;
+    color: #222222;
+    background-color: #ffffff;
+}
+
+.footer {
+    width: inherit;
+    background-color: #194695;
+    color: #f7e8e8;
+    margin-top: 20px;
+    padding: 20p
+}
+
+.footerimage {
+    margin-top: 5px;
+}
+
+.block {
+    display: block;
+}
+
+.negrita {
+    font-weight: 900
+}
+
+.redessociales {
+    color: #6cb4fb;
+    padding: 20px;
+}
+
+.equipo {
+    background-color: #40aef7;
+    color: #ffffff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    text-align: center
 }
