@@ -6,7 +6,7 @@ body {
     background-color: #ffffff;
 }
 .footer{
-    
+    width:100vh;
     background-color: #194695;
     color: #f7e8e8;
     margin-top: 20px;
@@ -14,7 +14,7 @@ body {
 .footerimage{
     margin-top: 5px;
 }
-.footertext{
+.block{
     display: block;
 }
 .negrita{
