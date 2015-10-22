@@ -1,0 +1,17 @@
+git add .
+git commit -m "Subir archivos de bootstrap"
+git branch parteGabriel
+git checkout parteGabriel
+git commit -a -m "Crear parte básica de bootstrap"
+git merge master (fusiono lo que ya llevo con la rama master, pero me mantengo en mi rama)
+git commit -a -m "Primeros cambios"
+git commit -a -m "Cambios importantes en body y head"
+git push origin parteGabriel
+git checkout master
+git push
+git commit -a -m "Parte casi finalizada"
+git push origin parteGabriel
+git checkout master
+git merge parteGabriel
+git branch -d parteGabriel
+git push
