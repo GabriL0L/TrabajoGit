@@ -1,0 +1,31 @@
+git clone git@github.com:GabriL0L/TrabajoGit.git
+git checkout -b ParteDePablo
+git status
+git commit -a -m "Footer sin css"
+git status
+git commit -a -m "Footer con css"
+git status
+git add font-awesome-4.4.0/
+ git commit -a -m "Redes Sociales sin css"
+git status
+git commit -a -m "Fix redes sociales sin css"
+git status
+git commit -a -m "CSS de redes sociales"
+git status
+git commit -a -m "Equipo sin css"
+git status
+git commit -a -m "CSS de equipo"
+git push
+git push --set-upstream origin ParteDePablo
+git checkout master
+git pull
+git merge ParteDePablo
+git status
+git add style.css
+git status
+git commit -m "Fusión de ParteDePablo y master"
+git push origin --delete ParteDePablo
+git branch -d ParteDePablo
+git push
+git commit -a -m "Comandos de git usados por Pablo"
+git push
